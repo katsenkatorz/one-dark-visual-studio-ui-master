@@ -1,0 +1,23 @@
+{
+  "name": "visual-studio-one-dark-ui",
+  "theme": "ui",
+  "version": "1.0.0",
+  "description": "Atom One dark UI theme",
+  "keywords": [
+    "dark",
+    "adaptive",
+    "visual studio",
+    "ide",
+    "ui",
+    "microsoft"
+  ],
+  "license": "",
+  "repository": "",
+  "main": "lib/main",
+  "engines": {
+    "atom": ">0.40.0"
+  },
+  "devDependencies": {
+    "coffeelint": "^1.9.7"
+  }
+}
